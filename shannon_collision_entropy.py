@@ -7,7 +7,7 @@ import copy
 import operator
 import math
 
-a=0
+a=02
 community={}
 number_of_detection=0
 
