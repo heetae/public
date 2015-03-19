@@ -8,6 +8,7 @@ import operator
 import math
 
 a=02
+idea 1 is here
 community={}
 number_of_detection=0
 
