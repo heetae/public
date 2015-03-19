@@ -9,6 +9,7 @@ import math
 
 a=02
 idea 1 is here
+fowjo
 community={}
 number_of_detection=0
 
