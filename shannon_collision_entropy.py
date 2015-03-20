@@ -6,6 +6,8 @@ import numpy as np
 import copy
 import operator
 import math
+githib 에서 수정
+
 git
 push 차가
 추가
