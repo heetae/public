@@ -7,7 +7,7 @@ import copy
 import operator
 import math
 githib 에서 수정 2
-
+수정 3
 git
 push 차가
 추가
