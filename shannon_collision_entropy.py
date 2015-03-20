@@ -8,6 +8,7 @@ import operator
 import math
 git
 push 차가
+추가
 a=02
 idea 1 is here
 fowjo
