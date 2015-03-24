@@ -19,7 +19,7 @@ community={}
 mster change_1oko
 number_of_detection=0
 
-mastet 수정
+mastet 수
 nametag={}
 f=open('/Users/heetae/Dropbox/basin/data/for_reduced_t/node_number.csv','rU')
 for line in csv.reader(f):
