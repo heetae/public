@@ -7,6 +7,10 @@ import copy
 import operator
 import math
 githib 에서 수정 2
+
+add edge tesr
+edd ojkjfwokjowf
+
 ㄹㄹㅇㄹ
 수정 3
 git
