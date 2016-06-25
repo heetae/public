@@ -1,11 +1,10 @@
 # Network data of power grids
 
-
-**Heetae Kim** 
-mail: [kimheetae at Gmail](kimheetae@gmail.com)
-PhD candidate
-Department of Energy Science, Sungkyunkwan University
 (updated 10 May, 2016)
+**Heetae Kim** 
+- E-mail: [kimheetae at Gmail](kimheetae@gmail.com)
+- Department of Energy Science, Sungkyunkwan University
+
 
 
 We introduce the network data of power grids available in public. Only the web-based data sources are considered with the direct url links. The data are provided in various forms as each provider prepared. Some data need validation before use. For example, edge straightening, node reduction, missing nodes or edges check are frequently required for handling power-grid networks. Next update would provide the unifided file format of the data sources.
