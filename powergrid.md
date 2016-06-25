@@ -14,11 +14,7 @@ Please, kindly inform the author about any missing network data from this list.
 
 ## Summary
 |Model/project|Region|Nodes|Edges|Type|Repository|
-|-|-|-|-|-|-|
-|Model/project|Region|Nodes|Edges|Type|Repository|
-
-|Model/project|Region|Nodes|Edges|Type|Repository|
-|-|-|-|-|-|-|
+|---|---|---|---|---|---|
 |SciGrid|Germany|495|825|F|[Link](http://www.scigrid.de/pages/downloads.html)|
 |GridKit|North America|16174|22459|F|[Link](http://dx.doi.org/10.5281/zenodo.47317)|
 |GridKit|Europe|13871|18804|F|[Link](http://dx.doi.org/10.5281/zenodo.47317)|
