@@ -13,7 +13,7 @@ Please, kindly inform the author about any missing network data from this list.
 
 
 ## Summary
-|Model/project|Region|Nodes|Edges|Type*|Repository|
+|Model/project|Region|Nodes|Edges|Type|Repository|
 |-|-|-|-|-|-|
 |SciGrid|Germany|495|825|F|[Link](http://www.scigrid.de/pages/downloads.html)|
 |GridKit|North America|16174|22459|F|[Link](http://dx.doi.org/10.5281/zenodo.47317)|
@@ -30,7 +30,7 @@ Please, kindly inform the author about any missing network data from this list.
 |Australia|Australia|909|2090|FMI|[Nodes](http://www.data.gov.au/dataset/national-electricity-transmission-substations), [Edges](http://www.data.gov.au/dataset/national-electricity-transmission-lines-database)|
 |Watts and Strogatz|Western US|4941|6594|F|[Link 1](http://nexus.igraph.org/api/dataset_info?id=15&format=html),[Link 2](https://networkdata.ics.uci.edu/data.php?id=107),[Link 3](https://toreopsahl.com/datasets/#uspowergrid)|
 |Kim et al.|Chile|420|573|F|[Link](http://iopscience.iop.org/article/10.1088/1367-2630/17/11/113005/meta)|
-*Type: F = data file, M = grid map, I = interactive information
+Type: F = data file, M = grid map, I = interactive information
 
 ## By region
 - Germany: [SciGRID project](http://www.scigrid.de/pages/downloads.html)
