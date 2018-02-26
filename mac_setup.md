@@ -199,7 +199,7 @@ sudo chown -R "$USER:admin" /usr/local/man
 iptest
 ```
 
-### pyenv
+### - pyenv
 - Install in `Terminal`
 ```bash
 brew install pyenv
@@ -307,8 +307,6 @@ java -version
 jdkhome="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"
 ```
 in `/Applications/Gephi.app/Contents/Resources/gephi/etc/gephi.conf`
-
-
 
 ## xQuartz
 - Download the latest version from [http://xquartz.macosforge.org/landing/](http://xquartz.macosforge.org/landing/)
@@ -428,7 +426,7 @@ brew install ntfs-3g
 ```bash
 csrutil disable
 ```
-- Reboot and run commands ([Ref 1](https://www.howtogeek.com/236055/how-to-write-to-ntfs-drives-on-a-mac/), [Ref 2](https://gist.github.com/bjorgvino/f24e5c079b92f921b765) 
+- Reboot and run commands ([Ref 1](https://www.howtogeek.com/236055/how-to-write-to-ntfs-drives-on-a-mac/), [Ref 2](https://gist.github.com/bjorgvino/f24e5c079b92f921b765))
 ```bash
 sudo mv /sbin/mount_ntfs /sbin/mount_ntfs.original
 sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
