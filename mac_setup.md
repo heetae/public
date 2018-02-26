@@ -324,7 +324,7 @@ brew cask install xquartz
 brew install gnuplot --with-aquaterm --with-cairo --with-x11
 ```
 
-##QGIS
+## QGIS
 
 ### Standard install
 - Download the package and install all frameworks included in order at [http://www.kyngchaos.com/software/qgis](http://www.kyngchaos.com/software/qgis)
