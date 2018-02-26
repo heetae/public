@@ -1,3 +1,6 @@
+# Install guide for a fresh Mac OS
+[TOC]
+
 # *Softwares*
 ## X-code
 
