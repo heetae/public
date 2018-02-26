@@ -1,6 +1,4 @@
 
-- Softwares(#Softwares)
-
 # *Softwares*
 ## X-code
 
