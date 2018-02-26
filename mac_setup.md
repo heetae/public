@@ -199,7 +199,7 @@ sudo chown -R "$USER:admin" /usr/local/man
 iptest
 ```
 
-### - pyenv
+### pyenv
 - Install in `Terminal`
 ```bash
 brew install pyenv
