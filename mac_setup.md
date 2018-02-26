@@ -1,8 +1,8 @@
-# Install guide for a fresh Mac OS
-[TOC]
 
-# *Softwares*
-## X-code
+- Softwares(#Softwares)
+
+#Softwares
+##X-code
 
 1. Install `Xcode` from `Mac App Store`
 2. Install Command Line Tools 
@@ -16,7 +16,7 @@ xcode-select --install
 sudo xcodebuild
 ```
 
-## Homebrew
+##Homebrew
 
 - `Homebrew` is a package manager for Mac OS X that can install a large number of packages. Simply, it is like `apt-get` in Linux system. 
 - To install it simply launch a terminal and enter:
